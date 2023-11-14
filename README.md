@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Muhammad Usama Waheed
-- 👀 I’m interested in Machine Learning, Python.
+- 👀 I’m interested in Machine Learning, Python Programming, Data Analysis
 - 🌱 I’m currently learning Data Science Skills such as AZURE, MATLAB, DATABRICKS, DATA ANALYSIS.
-- 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 usama.waheed410@gmail.com
+- 💞️ I’m looking to collaborate on Data Science Projects.
+- 📫 You can reach me at usama.waheed410@gmail.com.
 
 <!---
 Usama1725/Usama1725 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
